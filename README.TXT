@@ -22,7 +22,7 @@ HOW TO START THIS PROJECT:
    - Spasi/Enter: Tembak peluru (cek kode Hero.java untuk kontrol pasti)
 
 AUTHORS:
-- [Nama Anda]
+- [Me & AI]
 - Dibuat dengan Greenfoot Framework
 
 USER INSTRUCTIONS:
